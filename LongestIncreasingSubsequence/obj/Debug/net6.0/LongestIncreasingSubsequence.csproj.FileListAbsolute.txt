@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.exe
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.deps.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\refint\LongestIncreasingSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\net6.0\ref\LongestIncreasingSubsequence.dll

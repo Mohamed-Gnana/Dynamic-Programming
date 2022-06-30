@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.exe
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.deps.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\refint\ReverseLinkedList.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\ReverseLinkedList\obj\Debug\net6.0\ref\ReverseLinkedList.dll

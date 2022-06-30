@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\bin\Debug\net6.0\DynamicProgramming.exe
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\bin\Debug\net6.0\DynamicProgramming.deps.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\bin\Debug\net6.0\DynamicProgramming.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\bin\Debug\net6.0\DynamicProgramming.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\bin\Debug\net6.0\DynamicProgramming.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\refint\DynamicProgramming.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\DynamicProgramming.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\DynamicProgramming\obj\Debug\net6.0\ref\DynamicProgramming.dll

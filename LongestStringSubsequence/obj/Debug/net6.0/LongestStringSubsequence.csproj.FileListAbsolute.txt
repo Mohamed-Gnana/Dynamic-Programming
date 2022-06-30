@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\bin\Debug\net6.0\LongestStringSubsequence.exe
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\bin\Debug\net6.0\LongestStringSubsequence.deps.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\bin\Debug\net6.0\LongestStringSubsequence.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\bin\Debug\net6.0\LongestStringSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\bin\Debug\net6.0\LongestStringSubsequence.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\refint\LongestStringSubsequence.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\LongestStringSubsequence.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\LongestStringSubsequence\obj\Debug\net6.0\ref\LongestStringSubsequence.dll

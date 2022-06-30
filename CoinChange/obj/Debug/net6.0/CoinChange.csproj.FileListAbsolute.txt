@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\bin\Debug\net6.0\CoinChange.exe
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\bin\Debug\net6.0\CoinChange.deps.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\bin\Debug\net6.0\CoinChange.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\bin\Debug\net6.0\CoinChange.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\bin\Debug\net6.0\CoinChange.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\refint\CoinChange.dll
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.pdb
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\CoinChange.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\DynamicProgramming\CoinChange\obj\Debug\net6.0\ref\CoinChange.dll
